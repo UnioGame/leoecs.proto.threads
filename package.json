@@ -1,0 +1,20 @@
+{
+    "name": "ru.leopotam.ecsproto.threads",
+    "author": "Leopotam",
+    "displayName": "LeoECS Proto Threads",
+    "description": "LeoECS Proto Threads - Поддержка многопоточной обработки.",
+    "unity": "2021.3",
+    "version": "2025.9.4",
+    "keywords": [
+        "leoecs",
+        "proto",
+        "ecs",
+        "performance",
+        "threads"
+    ],
+    "dependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "https://gitverse.ru/leopotam/ecsproto.threads.git"
+    }
+}
